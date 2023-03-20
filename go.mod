@@ -1,6 +1,6 @@
-module github.com/vmihailenco/msgpack/v5
+module github.com/sinkingpoint/msgpack/v5
 
-go 1.11
+go 1.20
 
 require (
 	github.com/stretchr/testify v1.6.1
